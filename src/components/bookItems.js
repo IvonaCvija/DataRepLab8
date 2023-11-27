@@ -2,6 +2,7 @@ import { CardBody } from 'react-bootstrap';
 import Card from 'react-bootstrap/Card';
 import {Link} from 'react-router-dom';
 
+// BookItems component receives props containing information about a book
 function BookItems(props) {
 
     return (
